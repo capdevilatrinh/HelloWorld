@@ -5,8 +5,14 @@ This is my first git lesson
 
 using namespace std;
 
+void int giveARowValue(){
+  return 100;
+}
+
 int main(){
   printf("Trinh Duc Trung\n");
   
-  return 0;
+  int ret = giveARowValue();
+  
+  return ret;
 }
