@@ -1,5 +1,2 @@
-a
-b
-c
-c
-d
+123
+trinh duc trung
