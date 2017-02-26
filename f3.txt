@@ -1,0 +1,2 @@
+check_commit history
+list all files we have seen
